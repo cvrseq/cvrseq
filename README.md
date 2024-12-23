@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[View the STL model on Sketchfab](https://sketchfab.com/3d-models/cvrseq-2024-github-skyline-5c8674c08eba4bbb9a4e7889b569e589)
+https://sketchfab.com/3d-models/cvrseq-2024-github-skyline-5c8674c08eba4bbb9a4e7889b569e589
