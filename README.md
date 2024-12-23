@@ -1,4 +1,4 @@
-## Hi there 👋
+## My Profile
 
 
 ![Model Preview (click me)](config-3d-contrib/cvrseq-2024-github-skyline.stl)
