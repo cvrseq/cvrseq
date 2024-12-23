@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Model Preview](config-3d-contrib)
+![Model Preview (click me)](config-3d-contrib/cvrseq-2024-github-skyline.stl)
 
