@@ -7,3 +7,6 @@
 ![Ваш GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvrseq&show_icons=true&theme=radical)
 
 ![Самые популярные языки](https://github-readme-stats.vercel.app/api/top-langs/?username=cvrseq&layout=compact&theme=radical)
+
+
+![Баннер](https://github.com/cvrseq/cvrseq/blob/main/banner.png)
