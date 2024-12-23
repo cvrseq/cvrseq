@@ -9,3 +9,4 @@
 ![Самые популярные языки](https://github-readme-stats.vercel.app/api/top-langs/?username=cvrseq&layout=compact&theme=radical)
 
 
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=cvrseq&theme=react-dark)
