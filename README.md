@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Model Preview](config-3d-contrib/cvrseq-2024-github-skyline.stl)
+[View the STL model on Sketchfab](config-3d-contrib/cvrseq-2024-github-skyline.stl](https://sketchfab.com/3d-models/cvrseq-2024-github-skyline-5c8674c08eba4bbb9a4e7889b569e589/properties)
