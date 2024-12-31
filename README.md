@@ -8,6 +8,8 @@
 
 
 ## Best Repo
-- [Click me](https://github.com/cvrseq/another_player) 
+| Project | Description | Language | Stars | Forks |
+|---------|-------------|----------|-------|-------|
+| [another-player](https://github.com/cvrseq/another_player) 🚀 | WaveSurfer.js Player is a simple and stylish audio player designed for playing music tracks with spectrum visualization. The project includes a responsive design and supports multiple tracks playback. | js | ⭐ 0 | 🔗 1 |
 
 
