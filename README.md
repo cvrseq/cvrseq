@@ -1,7 +1,7 @@
 ## My Profile
 
+![göz-gif](https://github.com/user-attachments/assets/658f1258-574f-4933-bdba-a161cd944556)
 
-![lich-king-bolvar](https://github.com/user-attachments/assets/cf2eb314-ff84-4ba5-a210-48028b392ff6)
 
 ## 📈 Stat GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvrseq&show_icons=true&theme=radical)
