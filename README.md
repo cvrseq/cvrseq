@@ -1,6 +1,7 @@
 ## My Profile
 
-![göz-gif](https://github.com/user-attachments/assets/658f1258-574f-4933-bdba-a161cd944556)
+![lich-king-snow](https://github.com/user-attachments/assets/a80590f9-3785-47c3-97ad-9d179971e371)
+
 
 
 ## 📈 Stat GitHub
