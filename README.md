@@ -1,5 +1,7 @@
 ## My Profile
 
+![Uploading lich-king-bolvar.gif…]()
+
 ## 📈 Stat GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvrseq&show_icons=true&theme=radical)
 
