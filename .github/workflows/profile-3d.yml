@@ -21,3 +21,7 @@ jobs:
           git add -A .
           git commit -m "Generated 3D Contribution Graph"
           git push
+      - name: Debug
+        run: |
+            git config --list
+            ls -al
