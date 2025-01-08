@@ -6,9 +6,10 @@
 
 
 ## 📈 Stat GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvrseq&show_icons=true&bg_color=1E1F29&title_color=4B8BBE&text_color=E0E5EC&icon_color=98C1D9&border_color=3D5A80)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvrseq&show_icons=true&theme=tokyonight&border_color=4FC3F7)
 
-![Most Popularity Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvrseq&layout=compact&bg_color=1E1F29&title_color=4B8BBE&text_color=E0E5EC&icon_color=98C1D9&border_color=3D5A80)
+![Most Popularity Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvrseq&layout=compact&theme=tokyonight&border_color=4FC3F7)
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvrseq&show_icons=true&theme=tokyonight)
