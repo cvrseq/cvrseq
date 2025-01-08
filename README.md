@@ -6,7 +6,7 @@
 
 
 ## 📈 Stat GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvrseq&show_icons=true&theme=blueberry)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvrseq&show_icons=true&theme=tokyonight)
 
 ![Most popylarity langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvrseq&layout=compact&theme=radical)
 
